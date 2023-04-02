@@ -1,0 +1,46 @@
+.flatt {
+  display: flex;
+  width: 60%;
+  height: 7%;
+  align-items: left;
+  margin: auto;
+  border-radius: 3vh;
+  margin-top: 2vh;
+}
+.flat {
+  display: flex;
+  width: 60%;
+  height: 7%;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 2vh;
+}
+.flate {
+  display: flex;
+  width: 60%;
+  height: 7%;
+  align-items: left;
+  justify-content: left;
+  margin: auto;
+  margin-top: 2vh;
+}
+.img {
+  width: 3%;
+  padding: 2%;
+}
+.my-component-black {
+  background-color: #61a4bc;
+  color: white;
+}
+.my-component-white {
+  background-color: #f7e2e2;
+  color: black;
+  border: 1px solid;
+  box-shadow: 1px 3px #888888;
+}
+.main {
+  margin: 4vh;
+}
+.App {
+}
